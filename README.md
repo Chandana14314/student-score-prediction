@@ -197,15 +197,12 @@ This predicts the score of a student who studies for 15 hours.
 ## 📁 Project Structure
 
 ```text
-StudentScorePrediction/
+student-score-prediction/
 │
-├── StudentScorePrediction.ipynb
-├── score.csv
 ├── README.md
-│
-└── images/
-    ├── scatter_plot.png
-    └── regression_line.png
+├── StudentScorePrediction.ipynb
+└── score.csv
+```
 ```
 
 ---
